@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pytoolbox
+Version: 1.0
+Summary: Generate Jenkins change logs
+Home-page: UNKNOWN
+Author: TBU
+Author-email: smartequipct@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: build,tools,changelog,jenkins
+Platform: Independant

@@ -1,0 +1,24 @@
+commit e235cac733e86da7c1f96ab18e9bade52acb59f4
+Author: xxxxxxxxxxxxxxxxxxxxx
+Date:   Fri Jan 20 13:32:39 2017 -0500
+
+    dev-4004 in dddd, fix issue where part was not targeted by both callout and partId
+
+commit eee5704fc073d26d0f35542f25896526e9cbbd2d
+Author: YYYYYYYYYYYYYYYYYYYYY
+Date:   Fri Jan 20 13:18:43 2017 -0500
+
+    dev-4002 fix issue where dddd is rendered beneath the diagram modal
+
+commit cdb1dd395e9a726ae27da1f31b013c450f43cd36
+Author: ZZZZZZZZZZZZZZZZZZZZZZ
+Date:   Fri Jan 20 11:39:58 2017 -0500
+
+    dev-2631 manual link after engine search brings user to manual in library
+
+commit 612bae16cf2d899f8ec10fa797d36ca796258327
+Author: TTTTTTTTTTTTTTTTTTTTTTTTTT
+Date:   Fri Jan 20 10:33:56 2017 -0500
+
+    dev-2448 fix bug where aaaa do not update partslist as required
+
